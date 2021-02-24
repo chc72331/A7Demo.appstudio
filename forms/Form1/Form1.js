@@ -20,3 +20,7 @@ console.log(myclass)
 // This is more code after making myClassError
 
 console.log(myClass.length())
+
+// This is code added in Notepad
+
+let cats = ['Garfield', 'Sylvester', 'Heathcliff']
