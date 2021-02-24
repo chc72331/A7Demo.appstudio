@@ -19,4 +19,14 @@ console.log(myclass)
 
 // This is more code after making myClassError
 
+<<<<<<< Updated upstream
 console.log(myClass.length())
+=======
+console.log(myClass.length())
+
+// This is code added in Notepad and pushed to Github
+
+let cats = ['Garfield', 'Sylvester', 'Heathcliff']
+
+// This is just changed in Notepad, but not pushed to GH
+>>>>>>> Stashed changes
