@@ -16,6 +16,7 @@ console.log(`Welcome ${dogName}, it is good to have you here.`)
 
 let myClass = 'My favorite class is BIA 375.'
 console.log(myclass)
+<<<<<<< Updated upstream
 
 // This is more code after making myClassError
 
@@ -24,3 +25,5 @@ console.log(myClass.length())
 // This is code added in Notepad
 
 let cats = ['Garfield', 'Sylvester', 'Heathcliff']
+=======
+>>>>>>> Stashed changes
