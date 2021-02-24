@@ -23,20 +23,17 @@ console.log(myclass)
 <<<<<<< Updated upstream
 console.log(myClass.length())
 =======
-console.log(myClass.length())
+
 
 // This is code added in Notepad and pushed to Github
 
 let cats = ['Garfield', 'Sylvester', 'Heathcliff']
 
 // This is just changed in Notepad, but not pushed to GH
->>>>>>> Stashed changes
-=======
-console.log(myClass.length())
 
 // Let's see if this updates on Github
 
 // The following code was written in Notepad.
 
 let primeNumbers = [1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
->>>>>>> Stashed changes
+
